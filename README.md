@@ -1,9 +1,8 @@
+#### Master&nbsp;&nbsp; [![Build Status](https://travis-ci.org/Naxaes/Nax.svg?branch=master)](https://travis-ci.org/Naxaes/Nax)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development&nbsp;&nbsp; [![Build Status](https://travis-ci.org/Naxaes/Nax.svg?branch=development)](https://travis-ci.org/Naxaes/Nax)
+
+
 # School Game
 A game in school.
-
-#### Master [![Build Status](https://travis-ci.org/Naxaes/Nax.svg?branch=master)](https://travis-ci.org/Naxaes/Nax)
-#### Development [![Build Status](https://travis-ci.org/Naxaes/Nax.svg?branch=development)](https://travis-ci.org/Naxaes/Nax)
-
 
 ## Getting Started
 
